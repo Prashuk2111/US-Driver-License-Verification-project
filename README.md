@@ -1,19 +1,3 @@
-# US-Driver-License-Verification-project
-
-US-Driver-License-Verification/
-├── barcodeScan.py
-├── image_extraction.py
-├── license_auth.py
-├── face_comparison.py
-├── input_barcode/           # Back side images of licenses
-├── input_face/              # Front side images of licenses
-├── selfie_img/              # Selfie images of drivers
-├── output_barcode/          # JSONs after barcode scan
-├── output_face_json/        # JSONs from front scan
-├── output_face_img/         # Extracted face images
-├── output_comparison/       # All result outputs (comparison JSONs, Excel reports)
-└── README.md
-
 
 # 🪪 US Driver License Verification System
 
