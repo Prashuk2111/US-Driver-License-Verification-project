@@ -1,0 +1,223 @@
+{
+    "executionId": "6439e7b3-2ba0-4696-8469-6b24398bae71",
+    "finishTime": "2025-05-02T10:34:31.361Z",
+    "startTime": "2025-05-02T10:34:31.036Z",
+    "result": {
+        "dateOfBirth": {
+            "day": 4,
+            "month": 9,
+            "year": 2005,
+            "successfullyParsed": true,
+            "originalString": "09042005"
+        },
+        "type": "ID_BARCODE",
+        "isBelowAgeLimit": false,
+        "age": 19,
+        "recognitionStatus": "VALID",
+        "documentType": "AAMVA_COMPLIANT",
+        "rawDataBase64": "QAoeDUFOU0kgNjM2MDE0MDkwMTAyREwwMDQxMDI4OVpDMDMzMDAwMzVETERBUVkxNzY5NzIyCkRDU1NBTkRIVQpEREVOCkRBQ1BSQUJIVklSCkRERk4KREFEU0lOR0gKRERHTgpEQ0FDCkRDQjQ3NTkKRENETk9ORQpEQkQwMzAzMjAyMgpEQkIwOTA0MjAwNQpEQkEwOTA0MjAyNQpEQkMxCkRBVTA2OCBJTgpEQVlCUk8KREFHNDYxIEVWQU5TIExOCkRBSUxJVklOR1NUT04KREFKQ0EKREFLOTUzMzQwMDAwICAKRENGMDcvMTUvMjAyMTUzNjIyLzA2MDMwMzIyCkRDR1VTQQpEQVcxNjAKREFaQkxLCkRDSzIyMDYyWTE3Njk3MjIwNDAxCkREQUYKRERCMDgyOTIwMTcKRERIMDkwNDIwMjMNWkNaQ0FCUk4KWkNCQkxLClpDQ1BST1ZJU0lPTkFMClpDRA0=",
+        "stringData": "@\n\u001e\rANSI 636014090102DL00410289ZC03300035DLDAQY1769722\nDCSSANDHU\nDDEN\nDACPRABHVIR\nDDFN\nDADSINGH\nDDGN\nDCAC\nDCB4759\nDCDNONE\nDBD03032022\nDBB09042005\nDBA09042025\nDBC1\nDAU068 IN\nDAYBRO\nDAG461 EVANS LN\nDAILIVINGSTON\nDAJCA\nDAK953340000  \nDCF07/15/202153622/06030322\nDCGUSA\nDAW160\nDAZBLK\nDCK22062Y17697220401\nDDAF\nDDB08292017\nDDH09042023\rZCZCABRN\nZCBBLK\nZCCPROVISIONAL\nZCD\r",
+        "firstName": "PRABHVIR",
+        "lastName": "SANDHU",
+        "middleName": "SINGH",
+        "fullName": "SANDHU,PRABHVIR,SINGH",
+        "additionalNameInformation": "",
+        "address": "461 EVANS LN, LIVINGSTON, CA, 953340000",
+        "placeOfBirth": "",
+        "nationality": "",
+        "race": "",
+        "religion": "",
+        "profession": "",
+        "maritalStatus": "",
+        "residentialStatus": "",
+        "employer": "",
+        "sex": "1",
+        "dateOfIssue": {
+            "day": 3,
+            "month": 3,
+            "year": 2022,
+            "successfullyParsed": true,
+            "originalString": "03032022"
+        },
+        "dateOfExpiry": {
+            "day": 4,
+            "month": 9,
+            "year": 2025,
+            "successfullyParsed": true,
+            "originalString": "09042025"
+        },
+        "documentNumber": "Y1769722",
+        "personalIdNumber": "",
+        "documentAdditionalNumber": "",
+        "issuingAuthority": "",
+        "restrictions": "4759",
+        "endorsements": "NONE",
+        "vehicleClass": "C",
+        "street": "461 EVANS LN",
+        "postalCode": "953340000",
+        "city": "LIVINGSTON",
+        "jurisdiction": "CA",
+        "extendedElements": [
+            {
+                "key": "BARCODE_ELEMENT_KEY_DOCUMENT_TYPE",
+                "value": "AAMVA"
+            },
+            {
+                "key": "STANDARD_VERSION_NUMBER",
+                "value": "9"
+            },
+            {
+                "key": "CUSTOMER_FAMILY_NAME",
+                "value": "SANDHU"
+            },
+            {
+                "key": "CUSTOMER_FIRST_NAME",
+                "value": "PRABHVIR"
+            },
+            {
+                "key": "CUSTOMER_FULL_NAME",
+                "value": "SANDHU,PRABHVIR,SINGH"
+            },
+            {
+                "key": "DATE_OF_BIRTH",
+                "value": "09042005"
+            },
+            {
+                "key": "SEX",
+                "value": "1"
+            },
+            {
+                "key": "EYE_COLOR",
+                "value": "BRO"
+            },
+            {
+                "key": "ADDRESS_STREET",
+                "value": "461 EVANS LN"
+            },
+            {
+                "key": "ADDRESS_CITY",
+                "value": "LIVINGSTON"
+            },
+            {
+                "key": "ADDRESS_JURISDICTION_CODE",
+                "value": "CA"
+            },
+            {
+                "key": "ADDRESS_POSTAL_CODE",
+                "value": "953340000"
+            },
+            {
+                "key": "FULL_ADDRESS",
+                "value": "461 EVANS LN, LIVINGSTON, CA, 953340000"
+            },
+            {
+                "key": "HEIGHT",
+                "value": "68 in"
+            },
+            {
+                "key": "HEIGHT_IN",
+                "value": "68"
+            },
+            {
+                "key": "HEIGHT_CM",
+                "value": "173"
+            },
+            {
+                "key": "CUSTOMER_MIDDLE_NAME",
+                "value": "SINGH"
+            },
+            {
+                "key": "HAIR_COLOR",
+                "value": "BLK"
+            },
+            {
+                "key": "WEIGHT_RANGE",
+                "value": "3"
+            },
+            {
+                "key": "WEIGHT_POUNDS",
+                "value": "160"
+            },
+            {
+                "key": "WEIGHT_KILOGRAMS",
+                "value": "72"
+            },
+            {
+                "key": "CUSTOMER_ID_NUMBER",
+                "value": "Y1769722"
+            },
+            {
+                "key": "FAMILY_NAME_TRUNCATION",
+                "value": "N"
+            },
+            {
+                "key": "FIRST_NAME_TRUNCATION",
+                "value": "N"
+            },
+            {
+                "key": "MIDDLE_NAME_TRUNCATION",
+                "value": "N"
+            },
+            {
+                "key": "COUNTRY_IDENTIFICATION",
+                "value": "USA"
+            },
+            {
+                "key": "UNDER_18",
+                "value": "09042023"
+            },
+            {
+                "key": "ISSUER_IDENTIFICATION_NUMBER",
+                "value": "636014"
+            },
+            {
+                "key": "DOCUMENT_EXPIRATION_DATE",
+                "value": "09042025"
+            },
+            {
+                "key": "JURISDICTION_VERSION_NUMBER",
+                "value": "1"
+            },
+            {
+                "key": "JURISDICTION_VEHICLE_CLASS",
+                "value": "C"
+            },
+            {
+                "key": "JURISDICTION_RESTRICTION_CODES",
+                "value": "4759"
+            },
+            {
+                "key": "JURISDICTION_ENDORSEMENT_CODES",
+                "value": "NONE"
+            },
+            {
+                "key": "DOCUMENT_ISSUE_DATE",
+                "value": "03032022"
+            },
+            {
+                "key": "ISSUING_JURISDICTION",
+                "value": "ZC"
+            },
+            {
+                "key": "ISSUING_JURISDICTION_NAME",
+                "value": "California"
+            },
+            {
+                "key": "INVENTORY_CONTROL_NUMBER",
+                "value": "22062Y17697220401"
+            },
+            {
+                "key": "CARD_REVISION_DATE",
+                "value": "08292017"
+            },
+            {
+                "key": "DOCUMENT_DISCRIMINATOR",
+                "value": "07/15/202153622/06030322"
+            },
+            {
+                "key": "COMPLIANCE_TYPE",
+                "value": "F"
+            }
+        ]
+    }
+}

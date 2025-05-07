@@ -1,0 +1,223 @@
+{
+    "executionId": "3baa6fc0-7e0f-4d40-b9fd-50a1831adf07",
+    "finishTime": "2025-05-02T10:34:35.958Z",
+    "startTime": "2025-05-02T10:34:35.505Z",
+    "result": {
+        "dateOfBirth": {
+            "day": 10,
+            "month": 4,
+            "year": 1982,
+            "successfullyParsed": true,
+            "originalString": "04101982"
+        },
+        "type": "ID_BARCODE",
+        "isBelowAgeLimit": false,
+        "age": 43,
+        "recognitionStatus": "VALID",
+        "documentType": "AAMVA_COMPLIANT",
+        "rawDataBase64": "QAoeDUFOU0kgNjM2MDE0MDkwMTAyREwwMDQxMDI4OVpDMDMzMDAwMzZETERBUVcxNzEwMzY1CkRDU1NJTkdICkRERU4KREFDSkFUSU5ERVIKRERGTgpEQUROT05FCkRER04KRENBQQpEQ0I2NApEQ0ROT05FCkRCRDAyMDcyMDI0CkRCQjA0MTAxOTgyCkRCQTA1MDQyMDI1CkRCQzEKREFVMDY1IElOCkRBWUJMSwpEQUc4NTEgUyBTVU5TRVQgQVZFIEFQVCAzMApEQUlXRVNUIENPVklOQQpEQUpDQQpEQUs5MTc5MDAwMDAgIApEQ0YxMS8wOC8yMDIzNjE4MzYvRDJGRC8yOQpEQ0dVU0EKREFXMTUwCkRBWkJMSwpEQ0syNDAzOFcxNzEwMzY1MDMwMQpEREFOCkREQjA4MjkyMDE3CkRERDENWkNaQ0FCTEsKWkNCQkxLClpDQwpaQ0RMSU1JVEVELVRFUk0N",
+        "stringData": "@\n\u001e\rANSI 636014090102DL00410289ZC03300036DLDAQW1710365\nDCSSINGH\nDDEN\nDACJATINDER\nDDFN\nDADNONE\nDDGN\nDCAA\nDCB64\nDCDNONE\nDBD02072024\nDBB04101982\nDBA05042025\nDBC1\nDAU065 IN\nDAYBLK\nDAG851 S SUNSET AVE APT 30\nDAIWEST COVINA\nDAJCA\nDAK917900000  \nDCF11/08/202361836/D2FD/29\nDCGUSA\nDAW150\nDAZBLK\nDCK24038W17103650301\nDDAN\nDDB08292017\nDDD1\rZCZCABLK\nZCBBLK\nZCC\nZCDLIMITED-TERM\r",
+        "firstName": "JATINDER",
+        "lastName": "SINGH",
+        "middleName": "NONE",
+        "fullName": "SINGH,JATINDER",
+        "additionalNameInformation": "",
+        "address": "851 S SUNSET AVE APT 30, WEST COVINA, CA, 917900000",
+        "placeOfBirth": "",
+        "nationality": "",
+        "race": "",
+        "religion": "",
+        "profession": "",
+        "maritalStatus": "",
+        "residentialStatus": "",
+        "employer": "",
+        "sex": "1",
+        "dateOfIssue": {
+            "day": 7,
+            "month": 2,
+            "year": 2024,
+            "successfullyParsed": true,
+            "originalString": "02072024"
+        },
+        "dateOfExpiry": {
+            "day": 4,
+            "month": 5,
+            "year": 2025,
+            "successfullyParsed": true,
+            "originalString": "05042025"
+        },
+        "documentNumber": "W1710365",
+        "personalIdNumber": "",
+        "documentAdditionalNumber": "",
+        "issuingAuthority": "",
+        "restrictions": "64",
+        "endorsements": "NONE",
+        "vehicleClass": "A",
+        "street": "851 S SUNSET AVE APT 30",
+        "postalCode": "917900000",
+        "city": "WEST COVINA",
+        "jurisdiction": "CA",
+        "extendedElements": [
+            {
+                "key": "BARCODE_ELEMENT_KEY_DOCUMENT_TYPE",
+                "value": "AAMVA"
+            },
+            {
+                "key": "STANDARD_VERSION_NUMBER",
+                "value": "9"
+            },
+            {
+                "key": "CUSTOMER_FAMILY_NAME",
+                "value": "SINGH"
+            },
+            {
+                "key": "CUSTOMER_FIRST_NAME",
+                "value": "JATINDER"
+            },
+            {
+                "key": "CUSTOMER_FULL_NAME",
+                "value": "SINGH,JATINDER"
+            },
+            {
+                "key": "DATE_OF_BIRTH",
+                "value": "04101982"
+            },
+            {
+                "key": "SEX",
+                "value": "1"
+            },
+            {
+                "key": "EYE_COLOR",
+                "value": "BLK"
+            },
+            {
+                "key": "ADDRESS_STREET",
+                "value": "851 S SUNSET AVE APT 30"
+            },
+            {
+                "key": "ADDRESS_CITY",
+                "value": "WEST COVINA"
+            },
+            {
+                "key": "ADDRESS_JURISDICTION_CODE",
+                "value": "CA"
+            },
+            {
+                "key": "ADDRESS_POSTAL_CODE",
+                "value": "917900000"
+            },
+            {
+                "key": "FULL_ADDRESS",
+                "value": "851 S SUNSET AVE APT 30, WEST COVINA, CA, 917900000"
+            },
+            {
+                "key": "HEIGHT",
+                "value": "65 in"
+            },
+            {
+                "key": "HEIGHT_IN",
+                "value": "65"
+            },
+            {
+                "key": "HEIGHT_CM",
+                "value": "165"
+            },
+            {
+                "key": "CUSTOMER_MIDDLE_NAME",
+                "value": "NONE"
+            },
+            {
+                "key": "HAIR_COLOR",
+                "value": "BLK"
+            },
+            {
+                "key": "WEIGHT_RANGE",
+                "value": "3"
+            },
+            {
+                "key": "WEIGHT_POUNDS",
+                "value": "150"
+            },
+            {
+                "key": "WEIGHT_KILOGRAMS",
+                "value": "68"
+            },
+            {
+                "key": "CUSTOMER_ID_NUMBER",
+                "value": "W1710365"
+            },
+            {
+                "key": "FAMILY_NAME_TRUNCATION",
+                "value": "N"
+            },
+            {
+                "key": "FIRST_NAME_TRUNCATION",
+                "value": "N"
+            },
+            {
+                "key": "MIDDLE_NAME_TRUNCATION",
+                "value": "N"
+            },
+            {
+                "key": "COUNTRY_IDENTIFICATION",
+                "value": "USA"
+            },
+            {
+                "key": "ISSUER_IDENTIFICATION_NUMBER",
+                "value": "636014"
+            },
+            {
+                "key": "DOCUMENT_EXPIRATION_DATE",
+                "value": "05042025"
+            },
+            {
+                "key": "JURISDICTION_VERSION_NUMBER",
+                "value": "1"
+            },
+            {
+                "key": "JURISDICTION_VEHICLE_CLASS",
+                "value": "A"
+            },
+            {
+                "key": "JURISDICTION_RESTRICTION_CODES",
+                "value": "64"
+            },
+            {
+                "key": "JURISDICTION_ENDORSEMENT_CODES",
+                "value": "NONE"
+            },
+            {
+                "key": "DOCUMENT_ISSUE_DATE",
+                "value": "02072024"
+            },
+            {
+                "key": "ISSUING_JURISDICTION",
+                "value": "ZC"
+            },
+            {
+                "key": "ISSUING_JURISDICTION_NAME",
+                "value": "California"
+            },
+            {
+                "key": "INVENTORY_CONTROL_NUMBER",
+                "value": "24038W17103650301"
+            },
+            {
+                "key": "CARD_REVISION_DATE",
+                "value": "08292017"
+            },
+            {
+                "key": "DOCUMENT_DISCRIMINATOR",
+                "value": "11/08/202361836/D2FD/29"
+            },
+            {
+                "key": "LIMITED_DURATION_DOCUMENT",
+                "value": "1"
+            },
+            {
+                "key": "COMPLIANCE_TYPE",
+                "value": "N"
+            }
+        ]
+    }
+}

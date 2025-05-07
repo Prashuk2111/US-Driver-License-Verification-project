@@ -1,0 +1,98 @@
+{
+    "authentic": true,
+    "comparison": {
+        "firstName": {
+            "field": "firstName",
+            "front": "gurpreet",
+            "back": "gurpreet",
+            "match": true,
+            "details": {
+                "back_first": "gurpreet",
+                "back_middle": "none",
+                "combined_back": "gurpreet"
+            }
+        },
+        "lastName": {
+            "field": "lastName",
+            "front": "singh",
+            "back": "singh",
+            "match": true
+        },
+        "documentNumber": {
+            "field": "documentNumber",
+            "front": "f8486692",
+            "back": "f8486692",
+            "match": true
+        },
+        "address": {
+            "field": "address",
+            "front": "2534 e chestnut ave visalia, ca 93292",
+            "back": "2534 e chestnut ave, visalia, ca, 93292",
+            "match": true,
+            "details": {
+                "fuzzyRatio": 0.9736842105263158
+            }
+        },
+        "dateOfBirth": {
+            "field": "dateOfBirth",
+            "front": "12/05/1986",
+            "back": "12051986",
+            "match": true,
+            "details": {
+                "front_components": [
+                    5,
+                    12,
+                    1986
+                ],
+                "back_components": [
+                    5,
+                    12,
+                    1986
+                ],
+                "components_match": true,
+                "normalized_front": "12051986",
+                "normalized_back": "12051986",
+                "original_match": true
+            }
+        },
+        "dateOfExpiry": {
+            "field": "dateOfExpiry",
+            "front": "12/05/2025",
+            "back": "12052025",
+            "match": true,
+            "details": {
+                "front_components": [
+                    5,
+                    12,
+                    2025
+                ],
+                "back_components": [
+                    5,
+                    12,
+                    2025
+                ],
+                "components_match": true,
+                "normalized_front": "12052025",
+                "normalized_back": "12052025",
+                "original_match": true
+            }
+        },
+        "age": {
+            "field": "age",
+            "front": 38,
+            "back": 38,
+            "match": true
+        }
+    },
+    "checkedFields": [
+        "firstName",
+        "lastName",
+        "documentNumber",
+        "address",
+        "dateOfBirth",
+        "dateOfExpiry",
+        "age"
+    ],
+    "frontScanTimestamp": "2025-05-02T10:35:38.889Z",
+    "backScanTimestamp": "2025-05-02T10:34:40.283Z"
+}

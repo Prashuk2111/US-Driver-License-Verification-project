@@ -1,0 +1,98 @@
+{
+    "authentic": true,
+    "comparison": {
+        "firstName": {
+            "field": "firstName",
+            "front": "alex",
+            "back": "alex",
+            "match": true,
+            "details": {
+                "back_first": "alex",
+                "back_middle": "none",
+                "combined_back": "alex"
+            }
+        },
+        "lastName": {
+            "field": "lastName",
+            "front": "torres",
+            "back": "torres",
+            "match": true
+        },
+        "documentNumber": {
+            "field": "documentNumber",
+            "front": "d4588700",
+            "back": "d4588700",
+            "match": true
+        },
+        "address": {
+            "field": "address",
+            "front": "236 walnut st shafter, ca 93263",
+            "back": "236 walnut st, shafter, ca, 93263",
+            "match": true,
+            "details": {
+                "fuzzyRatio": 0.96875
+            }
+        },
+        "dateOfBirth": {
+            "field": "dateOfBirth",
+            "front": "03/03/1985",
+            "back": "03031985",
+            "match": true,
+            "details": {
+                "front_components": [
+                    3,
+                    3,
+                    1985
+                ],
+                "back_components": [
+                    3,
+                    3,
+                    1985
+                ],
+                "components_match": true,
+                "normalized_front": "03031985",
+                "normalized_back": "03031985",
+                "original_match": true
+            }
+        },
+        "dateOfExpiry": {
+            "field": "dateOfExpiry",
+            "front": "03/03/2026",
+            "back": "03032026",
+            "match": true,
+            "details": {
+                "front_components": [
+                    3,
+                    3,
+                    2026
+                ],
+                "back_components": [
+                    3,
+                    3,
+                    2026
+                ],
+                "components_match": true,
+                "normalized_front": "03032026",
+                "normalized_back": "03032026",
+                "original_match": true
+            }
+        },
+        "age": {
+            "field": "age",
+            "front": 40,
+            "back": 40,
+            "match": true
+        }
+    },
+    "checkedFields": [
+        "firstName",
+        "lastName",
+        "documentNumber",
+        "address",
+        "dateOfBirth",
+        "dateOfExpiry",
+        "age"
+    ],
+    "frontScanTimestamp": "2025-05-02T10:35:34.595Z",
+    "backScanTimestamp": "2025-05-02T10:34:38.588Z"
+}

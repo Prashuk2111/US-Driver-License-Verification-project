@@ -1,0 +1,98 @@
+{
+    "authentic": true,
+    "comparison": {
+        "firstName": {
+            "field": "firstName",
+            "front": "prabhvir singh",
+            "back": "prabhvir singh",
+            "match": true,
+            "details": {
+                "back_first": "prabhvir",
+                "back_middle": "singh",
+                "combined_back": "prabhvir singh"
+            }
+        },
+        "lastName": {
+            "field": "lastName",
+            "front": "sandhu",
+            "back": "sandhu",
+            "match": true
+        },
+        "documentNumber": {
+            "field": "documentNumber",
+            "front": "y1769722",
+            "back": "y1769722",
+            "match": true
+        },
+        "address": {
+            "field": "address",
+            "front": "461 evans ln livingston, ca 95334",
+            "back": "461 evans ln, livingston, ca, 95334",
+            "match": true,
+            "details": {
+                "fuzzyRatio": 0.9705882352941176
+            }
+        },
+        "dateOfBirth": {
+            "field": "dateOfBirth",
+            "front": "09/04/2005",
+            "back": "09042005",
+            "match": true,
+            "details": {
+                "front_components": [
+                    4,
+                    9,
+                    2005
+                ],
+                "back_components": [
+                    4,
+                    9,
+                    2005
+                ],
+                "components_match": true,
+                "normalized_front": "09042005",
+                "normalized_back": "09042005",
+                "original_match": true
+            }
+        },
+        "dateOfExpiry": {
+            "field": "dateOfExpiry",
+            "front": "09/04/2025",
+            "back": "09042025",
+            "match": true,
+            "details": {
+                "front_components": [
+                    4,
+                    9,
+                    2025
+                ],
+                "back_components": [
+                    4,
+                    9,
+                    2025
+                ],
+                "components_match": true,
+                "normalized_front": "09042025",
+                "normalized_back": "09042025",
+                "original_match": true
+            }
+        },
+        "age": {
+            "field": "age",
+            "front": 19,
+            "back": 19,
+            "match": true
+        }
+    },
+    "checkedFields": [
+        "firstName",
+        "lastName",
+        "documentNumber",
+        "address",
+        "dateOfBirth",
+        "dateOfExpiry",
+        "age"
+    ],
+    "frontScanTimestamp": "2025-05-02T10:35:33.133Z",
+    "backScanTimestamp": "2025-05-02T10:34:31.361Z"
+}

@@ -1,0 +1,98 @@
+{
+    "authentic": true,
+    "comparison": {
+        "firstName": {
+            "field": "firstName",
+            "front": "yogesh",
+            "back": "yogesh",
+            "match": true,
+            "details": {
+                "back_first": "yogesh",
+                "back_middle": "",
+                "combined_back": "yogesh"
+            }
+        },
+        "lastName": {
+            "field": "lastName",
+            "front": "kumar",
+            "back": "kumar",
+            "match": true
+        },
+        "documentNumber": {
+            "field": "documentNumber",
+            "front": "582977847",
+            "back": "582977847",
+            "match": true
+        },
+        "address": {
+            "field": "address",
+            "front": "8830 pontiac st 1 queens vlg, ny 11427 non-domiciled cdl",
+            "back": "8830 pontiac st 1, queens vlg, ny, 11427",
+            "match": true,
+            "details": {
+                "fuzzyRatio": 0.7916666666666666
+            }
+        },
+        "dateOfBirth": {
+            "field": "dateOfBirth",
+            "front": "02/21/1998",
+            "back": "02211998",
+            "match": true,
+            "details": {
+                "front_components": [
+                    21,
+                    2,
+                    1998
+                ],
+                "back_components": [
+                    21,
+                    2,
+                    1998
+                ],
+                "components_match": true,
+                "normalized_front": "02211998",
+                "normalized_back": "02211998",
+                "original_match": true
+            }
+        },
+        "dateOfExpiry": {
+            "field": "dateOfExpiry",
+            "front": "02/21/2028",
+            "back": "02212028",
+            "match": true,
+            "details": {
+                "front_components": [
+                    21,
+                    2,
+                    2028
+                ],
+                "back_components": [
+                    21,
+                    2,
+                    2028
+                ],
+                "components_match": true,
+                "normalized_front": "02212028",
+                "normalized_back": "02212028",
+                "original_match": true
+            }
+        },
+        "age": {
+            "field": "age",
+            "front": 27,
+            "back": 27,
+            "match": true
+        }
+    },
+    "checkedFields": [
+        "firstName",
+        "lastName",
+        "documentNumber",
+        "address",
+        "dateOfBirth",
+        "dateOfExpiry",
+        "age"
+    ],
+    "frontScanTimestamp": "2025-05-02T10:35:35.833Z",
+    "backScanTimestamp": "2025-05-02T10:34:29.401Z"
+}

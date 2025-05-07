@@ -1,0 +1,98 @@
+{
+    "authentic": true,
+    "comparison": {
+        "firstName": {
+            "field": "firstName",
+            "front": "jatinder",
+            "back": "jatinder",
+            "match": true,
+            "details": {
+                "back_first": "jatinder",
+                "back_middle": "none",
+                "combined_back": "jatinder"
+            }
+        },
+        "lastName": {
+            "field": "lastName",
+            "front": "singh",
+            "back": "singh",
+            "match": true
+        },
+        "documentNumber": {
+            "field": "documentNumber",
+            "front": "w1710365",
+            "back": "w1710365",
+            "match": true
+        },
+        "address": {
+            "field": "address",
+            "front": "851 s sunset ave apt 30 west covina, ca 91790",
+            "back": "851 s sunset ave apt 30, west covina, ca, 91790",
+            "match": true,
+            "details": {
+                "fuzzyRatio": 0.9782608695652174
+            }
+        },
+        "dateOfBirth": {
+            "field": "dateOfBirth",
+            "front": "04/10/1982",
+            "back": "04101982",
+            "match": true,
+            "details": {
+                "front_components": [
+                    10,
+                    4,
+                    1982
+                ],
+                "back_components": [
+                    10,
+                    4,
+                    1982
+                ],
+                "components_match": true,
+                "normalized_front": "04101982",
+                "normalized_back": "04101982",
+                "original_match": true
+            }
+        },
+        "dateOfExpiry": {
+            "field": "dateOfExpiry",
+            "front": "05/04/2025",
+            "back": "05042025",
+            "match": true,
+            "details": {
+                "front_components": [
+                    4,
+                    5,
+                    2025
+                ],
+                "back_components": [
+                    4,
+                    5,
+                    2025
+                ],
+                "components_match": true,
+                "normalized_front": "05042025",
+                "normalized_back": "05042025",
+                "original_match": true
+            }
+        },
+        "age": {
+            "field": "age",
+            "front": 43,
+            "back": 43,
+            "match": true
+        }
+    },
+    "checkedFields": [
+        "firstName",
+        "lastName",
+        "documentNumber",
+        "address",
+        "dateOfBirth",
+        "dateOfExpiry",
+        "age"
+    ],
+    "frontScanTimestamp": "2025-05-02T10:35:40.573Z",
+    "backScanTimestamp": "2025-05-02T10:34:35.958Z"
+}

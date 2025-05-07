@@ -1,0 +1,219 @@
+{
+    "executionId": "09029cb1-891c-4421-b52c-0ea1e85264df",
+    "finishTime": "2025-05-02T10:34:40.283Z",
+    "startTime": "2025-05-02T10:34:40.100Z",
+    "result": {
+        "dateOfBirth": {
+            "day": 5,
+            "month": 12,
+            "year": 1986,
+            "successfullyParsed": true,
+            "originalString": "12051986"
+        },
+        "type": "ID_BARCODE",
+        "isBelowAgeLimit": false,
+        "age": 38,
+        "recognitionStatus": "VALID",
+        "documentType": "AAMVA_COMPLIANT",
+        "rawDataBase64": "QAoeDUFOU0kgNjM2MDE0MDkwMTAyREwwMDQxMDI3OFpDMDMxOTAwMjRETERBUUY4NDg2NjkyCkRDU1NJTkdICkRERU4KREFDR1VSUFJFRVQKRERGTgpEQUROT05FCkRER04KRENBQQpEQ0JOT05FCkRDRE5PTkUKREJEMDExMzIwMjEKREJCMTIwNTE5ODYKREJBMTIwNTIwMjUKREJDMQpEQVUwNzAgSU4KREFZQlJPCkRBRzI1MzQgRSBDSEVTVE5VVCBBVkUKREFJVklTQUxJQQpEQUpDQQpEQUs5MzI5MjAwMDAgIApEQ0YwMS8wNS8yMDIxNTU5MTkvQkJGRC8yNQpEQ0dVU0EKREFXMjAwCkRBWkJMSwpEQ0syMTAxM0Y4NDg2NjkyMDMwMQpEREFGCkREQjA4MjkyMDE3DVpDWkNBQlJOClpDQkJMSwpaQ0MKWkNEDQ==",
+        "stringData": "@\n\u001e\rANSI 636014090102DL00410278ZC03190024DLDAQF8486692\nDCSSINGH\nDDEN\nDACGURPREET\nDDFN\nDADNONE\nDDGN\nDCAA\nDCBNONE\nDCDNONE\nDBD01132021\nDBB12051986\nDBA12052025\nDBC1\nDAU070 IN\nDAYBRO\nDAG2534 E CHESTNUT AVE\nDAIVISALIA\nDAJCA\nDAK932920000  \nDCF01/05/202155919/BBFD/25\nDCGUSA\nDAW200\nDAZBLK\nDCK21013F84866920301\nDDAF\nDDB08292017\rZCZCABRN\nZCBBLK\nZCC\nZCD\r",
+        "firstName": "GURPREET",
+        "lastName": "SINGH",
+        "middleName": "NONE",
+        "fullName": "SINGH,GURPREET",
+        "additionalNameInformation": "",
+        "address": "2534 E CHESTNUT AVE, VISALIA, CA, 932920000",
+        "placeOfBirth": "",
+        "nationality": "",
+        "race": "",
+        "religion": "",
+        "profession": "",
+        "maritalStatus": "",
+        "residentialStatus": "",
+        "employer": "",
+        "sex": "1",
+        "dateOfIssue": {
+            "day": 13,
+            "month": 1,
+            "year": 2021,
+            "successfullyParsed": true,
+            "originalString": "01132021"
+        },
+        "dateOfExpiry": {
+            "day": 5,
+            "month": 12,
+            "year": 2025,
+            "successfullyParsed": true,
+            "originalString": "12052025"
+        },
+        "documentNumber": "F8486692",
+        "personalIdNumber": "",
+        "documentAdditionalNumber": "",
+        "issuingAuthority": "",
+        "restrictions": "NONE",
+        "endorsements": "NONE",
+        "vehicleClass": "A",
+        "street": "2534 E CHESTNUT AVE",
+        "postalCode": "932920000",
+        "city": "VISALIA",
+        "jurisdiction": "CA",
+        "extendedElements": [
+            {
+                "key": "BARCODE_ELEMENT_KEY_DOCUMENT_TYPE",
+                "value": "AAMVA"
+            },
+            {
+                "key": "STANDARD_VERSION_NUMBER",
+                "value": "9"
+            },
+            {
+                "key": "CUSTOMER_FAMILY_NAME",
+                "value": "SINGH"
+            },
+            {
+                "key": "CUSTOMER_FIRST_NAME",
+                "value": "GURPREET"
+            },
+            {
+                "key": "CUSTOMER_FULL_NAME",
+                "value": "SINGH,GURPREET"
+            },
+            {
+                "key": "DATE_OF_BIRTH",
+                "value": "12051986"
+            },
+            {
+                "key": "SEX",
+                "value": "1"
+            },
+            {
+                "key": "EYE_COLOR",
+                "value": "BRO"
+            },
+            {
+                "key": "ADDRESS_STREET",
+                "value": "2534 E CHESTNUT AVE"
+            },
+            {
+                "key": "ADDRESS_CITY",
+                "value": "VISALIA"
+            },
+            {
+                "key": "ADDRESS_JURISDICTION_CODE",
+                "value": "CA"
+            },
+            {
+                "key": "ADDRESS_POSTAL_CODE",
+                "value": "932920000"
+            },
+            {
+                "key": "FULL_ADDRESS",
+                "value": "2534 E CHESTNUT AVE, VISALIA, CA, 932920000"
+            },
+            {
+                "key": "HEIGHT",
+                "value": "70 in"
+            },
+            {
+                "key": "HEIGHT_IN",
+                "value": "70"
+            },
+            {
+                "key": "HEIGHT_CM",
+                "value": "178"
+            },
+            {
+                "key": "CUSTOMER_MIDDLE_NAME",
+                "value": "NONE"
+            },
+            {
+                "key": "HAIR_COLOR",
+                "value": "BLK"
+            },
+            {
+                "key": "WEIGHT_RANGE",
+                "value": "5"
+            },
+            {
+                "key": "WEIGHT_POUNDS",
+                "value": "200"
+            },
+            {
+                "key": "WEIGHT_KILOGRAMS",
+                "value": "90"
+            },
+            {
+                "key": "CUSTOMER_ID_NUMBER",
+                "value": "F8486692"
+            },
+            {
+                "key": "FAMILY_NAME_TRUNCATION",
+                "value": "N"
+            },
+            {
+                "key": "FIRST_NAME_TRUNCATION",
+                "value": "N"
+            },
+            {
+                "key": "MIDDLE_NAME_TRUNCATION",
+                "value": "N"
+            },
+            {
+                "key": "COUNTRY_IDENTIFICATION",
+                "value": "USA"
+            },
+            {
+                "key": "ISSUER_IDENTIFICATION_NUMBER",
+                "value": "636014"
+            },
+            {
+                "key": "DOCUMENT_EXPIRATION_DATE",
+                "value": "12052025"
+            },
+            {
+                "key": "JURISDICTION_VERSION_NUMBER",
+                "value": "1"
+            },
+            {
+                "key": "JURISDICTION_VEHICLE_CLASS",
+                "value": "A"
+            },
+            {
+                "key": "JURISDICTION_RESTRICTION_CODES",
+                "value": "NONE"
+            },
+            {
+                "key": "JURISDICTION_ENDORSEMENT_CODES",
+                "value": "NONE"
+            },
+            {
+                "key": "DOCUMENT_ISSUE_DATE",
+                "value": "01132021"
+            },
+            {
+                "key": "ISSUING_JURISDICTION",
+                "value": "ZC"
+            },
+            {
+                "key": "ISSUING_JURISDICTION_NAME",
+                "value": "California"
+            },
+            {
+                "key": "INVENTORY_CONTROL_NUMBER",
+                "value": "21013F84866920301"
+            },
+            {
+                "key": "CARD_REVISION_DATE",
+                "value": "08292017"
+            },
+            {
+                "key": "DOCUMENT_DISCRIMINATOR",
+                "value": "01/05/202155919/BBFD/25"
+            },
+            {
+                "key": "COMPLIANCE_TYPE",
+                "value": "F"
+            }
+        ]
+    }
+}

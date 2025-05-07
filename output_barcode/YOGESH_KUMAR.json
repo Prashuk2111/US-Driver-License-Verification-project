@@ -1,0 +1,199 @@
+{
+    "executionId": "7bd8116d-5dfa-4125-ab2d-869872c421b5",
+    "finishTime": "2025-05-02T10:34:29.401Z",
+    "startTime": "2025-05-02T10:34:29.323Z",
+    "result": {
+        "dateOfBirth": {
+            "day": 21,
+            "month": 2,
+            "year": 1998,
+            "successfullyParsed": true,
+            "originalString": "02211998"
+        },
+        "type": "ID_BARCODE",
+        "isBelowAgeLimit": false,
+        "age": 27,
+        "recognitionStatus": "VALID",
+        "documentType": "AAMVA_COMPLIANT",
+        "rawDataBase64": "QAoeDUFOU0kgNjM2MDAxMTAwNDAyREwwMDQxMDMyM1pOMDM2NDAxMjBETERDQUEgICAKRENCQTFFICAgICAgIApEQ0ROT05FIApEQkEwMjIxMjAyOApEQ1NLVU1BUiAgICAgICAgICAgICAgICAgICAgCkRBQ1lPR0VTSCAgICAgICAgICAgICAgICAgICAKREFEICAgICAgICAgICAgICAgICAgICAgICAgIApEQkQwMjIxMjAyNApEQkIwMjIxMTk5OApEQkMxCkRBWUJSTwpEQVU1MDcgICAKREFHODgzMCBQT05USUFDIFNUIDEgICAgICAgIApEQUlRVUVFTlMgVkxHICAgICAgICAgIApEQUpOWQpEQUsxMTQyNzAwMDAgIApEQVE1ODI5Nzc4NDcKRENGSTdYSllXRVEwMwpEQ0dVU0EKRERFVQpEREZVCkRER1UKRERBTgpEREIwMzA3MjAyMgpEREQxDVpOWk5BS1VNQVJAWU9HRVNIICAgICAgICAKWk5CMExaJGQhNT5QZiNVIV5ZQmJnR1gnL1oxKD1vLVJWOD8pNjsxTDhzTzNPUFBxVV1NWlVCLV0sbjpuKWZXSkZBYF5XalEwOD0jIT5pKjBTXTVFRzZlOXE7WzIgDQ==",
+        "stringData": "@\n\u001e\rANSI 636001100402DL00410323ZN03640120DLDCAA   \nDCBA1E       \nDCDNONE \nDBA02212028\nDCSKUMAR                    \nDACYOGESH                   \nDAD                         \nDBD02212024\nDBB02211998\nDBC1\nDAYBRO\nDAU507   \nDAG8830 PONTIAC ST 1        \nDAIQUEENS VLG          \nDAJNY\nDAK114270000  \nDAQ582977847\nDCFI7XJYWEQ03\nDCGUSA\nDDEU\nDDFU\nDDGU\nDDAN\nDDB03072022\nDDD1\rZNZNAKUMAR@YOGESH        \nZNB0LZ$d!5>Pf#U!^YBbgGX'/Z1(=o-RV8?)6;1L8sO3OPPqU]MZUB-],n:n)fWJFA`^WjQ08=#!>i*0S]5EG6e9q;[2 \r",
+        "firstName": "YOGESH",
+        "lastName": "KUMAR",
+        "middleName": "",
+        "fullName": "KUMAR,YOGESH",
+        "additionalNameInformation": "",
+        "address": "8830 PONTIAC ST 1, QUEENS VLG, NY, 114270000",
+        "placeOfBirth": "",
+        "nationality": "",
+        "race": "",
+        "religion": "",
+        "profession": "",
+        "maritalStatus": "",
+        "residentialStatus": "",
+        "employer": "",
+        "sex": "1",
+        "dateOfIssue": {
+            "day": 21,
+            "month": 2,
+            "year": 2024,
+            "successfullyParsed": true,
+            "originalString": "02212024"
+        },
+        "dateOfExpiry": {
+            "day": 21,
+            "month": 2,
+            "year": 2028,
+            "successfullyParsed": true,
+            "originalString": "02212028"
+        },
+        "documentNumber": "582977847",
+        "personalIdNumber": "",
+        "documentAdditionalNumber": "",
+        "issuingAuthority": "",
+        "restrictions": "A1E",
+        "endorsements": "NONE",
+        "vehicleClass": "A",
+        "street": "8830 PONTIAC ST 1",
+        "postalCode": "114270000",
+        "city": "QUEENS VLG",
+        "jurisdiction": "NY",
+        "extendedElements": [
+            {
+                "key": "BARCODE_ELEMENT_KEY_DOCUMENT_TYPE",
+                "value": "AAMVA"
+            },
+            {
+                "key": "STANDARD_VERSION_NUMBER",
+                "value": "9"
+            },
+            {
+                "key": "CUSTOMER_FAMILY_NAME",
+                "value": "KUMAR"
+            },
+            {
+                "key": "CUSTOMER_FIRST_NAME",
+                "value": "YOGESH"
+            },
+            {
+                "key": "CUSTOMER_FULL_NAME",
+                "value": "KUMAR,YOGESH"
+            },
+            {
+                "key": "DATE_OF_BIRTH",
+                "value": "02211998"
+            },
+            {
+                "key": "SEX",
+                "value": "1"
+            },
+            {
+                "key": "EYE_COLOR",
+                "value": "BRO"
+            },
+            {
+                "key": "ADDRESS_STREET",
+                "value": "8830 PONTIAC ST 1"
+            },
+            {
+                "key": "ADDRESS_CITY",
+                "value": "QUEENS VLG"
+            },
+            {
+                "key": "ADDRESS_JURISDICTION_CODE",
+                "value": "NY"
+            },
+            {
+                "key": "ADDRESS_POSTAL_CODE",
+                "value": "114270000"
+            },
+            {
+                "key": "FULL_ADDRESS",
+                "value": "8830 PONTIAC ST 1, QUEENS VLG, NY, 114270000"
+            },
+            {
+                "key": "HEIGHT",
+                "value": "67 in"
+            },
+            {
+                "key": "HEIGHT_IN",
+                "value": "67"
+            },
+            {
+                "key": "HEIGHT_CM",
+                "value": "170"
+            },
+            {
+                "key": "CUSTOMER_ID_NUMBER",
+                "value": "582977847"
+            },
+            {
+                "key": "FAMILY_NAME_TRUNCATION",
+                "value": "U"
+            },
+            {
+                "key": "FIRST_NAME_TRUNCATION",
+                "value": "U"
+            },
+            {
+                "key": "MIDDLE_NAME_TRUNCATION",
+                "value": "U"
+            },
+            {
+                "key": "COUNTRY_IDENTIFICATION",
+                "value": "USA"
+            },
+            {
+                "key": "ISSUER_IDENTIFICATION_NUMBER",
+                "value": "636001"
+            },
+            {
+                "key": "DOCUMENT_EXPIRATION_DATE",
+                "value": "02212028"
+            },
+            {
+                "key": "JURISDICTION_VERSION_NUMBER",
+                "value": "4"
+            },
+            {
+                "key": "JURISDICTION_VEHICLE_CLASS",
+                "value": "A"
+            },
+            {
+                "key": "JURISDICTION_RESTRICTION_CODES",
+                "value": "A1E"
+            },
+            {
+                "key": "JURISDICTION_ENDORSEMENT_CODES",
+                "value": "NONE"
+            },
+            {
+                "key": "DOCUMENT_ISSUE_DATE",
+                "value": "02212024"
+            },
+            {
+                "key": "ISSUING_JURISDICTION",
+                "value": "ZN"
+            },
+            {
+                "key": "ISSUING_JURISDICTION_NAME",
+                "value": "New York"
+            },
+            {
+                "key": "CARD_REVISION_DATE",
+                "value": "03072022"
+            },
+            {
+                "key": "DOCUMENT_DISCRIMINATOR",
+                "value": "I7XJYWEQ03"
+            },
+            {
+                "key": "LIMITED_DURATION_DOCUMENT",
+                "value": "1"
+            },
+            {
+                "key": "COMPLIANCE_TYPE",
+                "value": "N"
+            }
+        ]
+    }
+}

@@ -1,0 +1,223 @@
+{
+    "executionId": "f8eafd30-d4df-4b47-87f3-392ab42b284c",
+    "finishTime": "2025-05-02T10:34:38.588Z",
+    "startTime": "2025-05-02T10:34:38.568Z",
+    "result": {
+        "dateOfBirth": {
+            "day": 3,
+            "month": 3,
+            "year": 1985,
+            "successfullyParsed": true,
+            "originalString": "03031985"
+        },
+        "type": "ID_BARCODE",
+        "isBelowAgeLimit": false,
+        "age": 40,
+        "recognitionStatus": "VALID",
+        "documentType": "AAMVA_COMPLIANT",
+        "rawDataBase64": "QAoeDUFOU0kgNjM2MDE0MDkwMTAyREwwMDQxMDI3MVpDMDMxMjAwMjRETERBUUQ0NTg4NzAwCkRDU1RPUlJFUwpEREVOCkRBQ0FMRVgKRERGTgpEQUROT05FCkRER04KRENBQQpEQ0JOT05FCkRDRFQKREJEMDgxNzIwMjEKREJCMDMwMzE5ODUKREJBMDMwMzIwMjYKREJDMQpEQVUwNjcgSU4KREFZQlJPCkRBRzIzNiBXQUxOVVQgU1QKREFJU0hBRlRFUgpEQUpDQQpEQUs5MzI2MzAwMDAgIApEQ0YwNC8yNy8yMDIxNjYwMTcvRTVGRC8yNgpEQ0dVU0EKREFXMjMwCkRBWkJMSwpEQ0syMTIyOUQ0NTg4NzAwMDMwMQpEREFGCkREQjA4MjkyMDE3CkRESzENWkNaQ0FCUk4KWkNCQkxLClpDQwpaQ0QN",
+        "stringData": "@\n\u001e\rANSI 636014090102DL00410271ZC03120024DLDAQD4588700\nDCSTORRES\nDDEN\nDACALEX\nDDFN\nDADNONE\nDDGN\nDCAA\nDCBNONE\nDCDT\nDBD08172021\nDBB03031985\nDBA03032026\nDBC1\nDAU067 IN\nDAYBRO\nDAG236 WALNUT ST\nDAISHAFTER\nDAJCA\nDAK932630000  \nDCF04/27/202166017/E5FD/26\nDCGUSA\nDAW230\nDAZBLK\nDCK21229D45887000301\nDDAF\nDDB08292017\nDDK1\rZCZCABRN\nZCBBLK\nZCC\nZCD\r",
+        "firstName": "ALEX",
+        "lastName": "TORRES",
+        "middleName": "NONE",
+        "fullName": "TORRES,ALEX",
+        "additionalNameInformation": "",
+        "address": "236 WALNUT ST, SHAFTER, CA, 932630000",
+        "placeOfBirth": "",
+        "nationality": "",
+        "race": "",
+        "religion": "",
+        "profession": "",
+        "maritalStatus": "",
+        "residentialStatus": "",
+        "employer": "",
+        "sex": "1",
+        "dateOfIssue": {
+            "day": 17,
+            "month": 8,
+            "year": 2021,
+            "successfullyParsed": true,
+            "originalString": "08172021"
+        },
+        "dateOfExpiry": {
+            "day": 3,
+            "month": 3,
+            "year": 2026,
+            "successfullyParsed": true,
+            "originalString": "03032026"
+        },
+        "documentNumber": "D4588700",
+        "personalIdNumber": "",
+        "documentAdditionalNumber": "",
+        "issuingAuthority": "",
+        "restrictions": "NONE",
+        "endorsements": "T",
+        "vehicleClass": "A",
+        "street": "236 WALNUT ST",
+        "postalCode": "932630000",
+        "city": "SHAFTER",
+        "jurisdiction": "CA",
+        "extendedElements": [
+            {
+                "key": "BARCODE_ELEMENT_KEY_DOCUMENT_TYPE",
+                "value": "AAMVA"
+            },
+            {
+                "key": "STANDARD_VERSION_NUMBER",
+                "value": "9"
+            },
+            {
+                "key": "CUSTOMER_FAMILY_NAME",
+                "value": "TORRES"
+            },
+            {
+                "key": "CUSTOMER_FIRST_NAME",
+                "value": "ALEX"
+            },
+            {
+                "key": "CUSTOMER_FULL_NAME",
+                "value": "TORRES,ALEX"
+            },
+            {
+                "key": "DATE_OF_BIRTH",
+                "value": "03031985"
+            },
+            {
+                "key": "SEX",
+                "value": "1"
+            },
+            {
+                "key": "EYE_COLOR",
+                "value": "BRO"
+            },
+            {
+                "key": "ADDRESS_STREET",
+                "value": "236 WALNUT ST"
+            },
+            {
+                "key": "ADDRESS_CITY",
+                "value": "SHAFTER"
+            },
+            {
+                "key": "ADDRESS_JURISDICTION_CODE",
+                "value": "CA"
+            },
+            {
+                "key": "ADDRESS_POSTAL_CODE",
+                "value": "932630000"
+            },
+            {
+                "key": "FULL_ADDRESS",
+                "value": "236 WALNUT ST, SHAFTER, CA, 932630000"
+            },
+            {
+                "key": "HEIGHT",
+                "value": "67 in"
+            },
+            {
+                "key": "HEIGHT_IN",
+                "value": "67"
+            },
+            {
+                "key": "HEIGHT_CM",
+                "value": "170"
+            },
+            {
+                "key": "CUSTOMER_MIDDLE_NAME",
+                "value": "NONE"
+            },
+            {
+                "key": "HAIR_COLOR",
+                "value": "BLK"
+            },
+            {
+                "key": "WEIGHT_RANGE",
+                "value": "6"
+            },
+            {
+                "key": "WEIGHT_POUNDS",
+                "value": "230"
+            },
+            {
+                "key": "WEIGHT_KILOGRAMS",
+                "value": "104"
+            },
+            {
+                "key": "CUSTOMER_ID_NUMBER",
+                "value": "D4588700"
+            },
+            {
+                "key": "FAMILY_NAME_TRUNCATION",
+                "value": "N"
+            },
+            {
+                "key": "FIRST_NAME_TRUNCATION",
+                "value": "N"
+            },
+            {
+                "key": "MIDDLE_NAME_TRUNCATION",
+                "value": "N"
+            },
+            {
+                "key": "COUNTRY_IDENTIFICATION",
+                "value": "USA"
+            },
+            {
+                "key": "ORGAN_DONOR",
+                "value": "1"
+            },
+            {
+                "key": "ISSUER_IDENTIFICATION_NUMBER",
+                "value": "636014"
+            },
+            {
+                "key": "DOCUMENT_EXPIRATION_DATE",
+                "value": "03032026"
+            },
+            {
+                "key": "JURISDICTION_VERSION_NUMBER",
+                "value": "1"
+            },
+            {
+                "key": "JURISDICTION_VEHICLE_CLASS",
+                "value": "A"
+            },
+            {
+                "key": "JURISDICTION_RESTRICTION_CODES",
+                "value": "NONE"
+            },
+            {
+                "key": "JURISDICTION_ENDORSEMENT_CODES",
+                "value": "T"
+            },
+            {
+                "key": "DOCUMENT_ISSUE_DATE",
+                "value": "08172021"
+            },
+            {
+                "key": "ISSUING_JURISDICTION",
+                "value": "ZC"
+            },
+            {
+                "key": "ISSUING_JURISDICTION_NAME",
+                "value": "California"
+            },
+            {
+                "key": "INVENTORY_CONTROL_NUMBER",
+                "value": "21229D45887000301"
+            },
+            {
+                "key": "CARD_REVISION_DATE",
+                "value": "08292017"
+            },
+            {
+                "key": "DOCUMENT_DISCRIMINATOR",
+                "value": "04/27/202166017/E5FD/26"
+            },
+            {
+                "key": "COMPLIANCE_TYPE",
+                "value": "F"
+            }
+        ]
+    }
+}
